@@ -1,7 +1,7 @@
 ### Olá, Meu nome é João Vitor Cleto
 
 - 🔭 Hoje trabalho com fornt-end
-- 🌱 Estudando Python
+- 🌱 Estudando Engenharia de Software
 - 😄 Pronouns: ele/dele
 <div align="center">
 
