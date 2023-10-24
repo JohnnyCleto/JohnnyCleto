@@ -1,8 +1,4 @@
-### Olá, Meu nome é João Vitor Cleto
-
-- 🔭 Hoje trabalho com fornt-end
-- 🌱 Estudante de Engenharia de Software
-- 😄 Pronouns: ele/dele
+### Olá, Meu nome é João Vitor Cleto, Sou estudante de Engenharia de Software e meu objetivo e estar iniciando no ramo da programação e desenvolvimento de sites/aplicações.
 <div align="center">
 
 
@@ -17,6 +13,7 @@
   <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Johnny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Johnny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Johnny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
