@@ -4,7 +4,7 @@
 
 </div>
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JohnnyCleto&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/JohnnyCleto)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JohnnyCleto&show_icons=true&theme=dark&include_all_commits=true&count_private=true)]
  
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyCleto&layout=compact&langs_count=7&theme=dark)](https://github.com/JohnnyCleto)
 
