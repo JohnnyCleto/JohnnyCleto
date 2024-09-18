@@ -2,9 +2,6 @@
 
 Olá! 👋 Meu nome é João Vitor Cleto, e sou um estudante de Engenharia de Software apaixonado por programação e desenvolvimento de sites/aplicações. Estou sempre em busca de aprender e evoluir na minha jornada como desenvolvedor. Abaixo, compartilho um pouco sobre minhas habilidades e algumas estatísticas do meu perfil no GitHub.
 
-## Estatísticas do GitHub
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyCleto&layout=compact&langs_count=7&theme=dark)](https://github.com/JohnnyCleto)
-
 ## Tecnologias que Estou Estudando e Utilizando
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
