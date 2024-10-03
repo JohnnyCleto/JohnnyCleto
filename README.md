@@ -2,6 +2,9 @@
 
 Olá! 👋 Meu nome é João Vitor Cleto, e sou um estudante de Engenharia de Software apaixonado por programação e desenvolvimento de sites/aplicações. Estou sempre em busca de aprender e evoluir na minha jornada como desenvolvedor. Abaixo, compartilho um pouco sobre minhas habilidades e algumas estatísticas do meu perfil no GitHub.
 
+![](https://github-readme-stats.vercel.app/api?username=JohnnyCleto&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=JohnnyCleto&theme=dark&hide_border=false)<br/>
+
 ## Tecnologias que Estou Estudando e Utilizando
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,3 +30,7 @@ Conecte-se comigo em minhas redes sociais:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-cleto/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou aberto a colaborações, aprendizado e novos desafios. Vamos construir coisas incríveis juntos! 😊✨
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
