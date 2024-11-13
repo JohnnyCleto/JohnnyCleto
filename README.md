@@ -18,7 +18,6 @@ Estou focado em aprimorar minhas habilidades em bancos de dados utilizando MySQL
 
 ## Ferramentas e Ambientes de Desenvolvimento
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
